@@ -1,10 +1,6 @@
 
 
 # Telco Customer Churn Prediction
-
-![Project Banner](https://raw.githubusercontent.com/yourusername/churn-streamlit-app/main/assets/banner.png)  
-*(Replace with your own banner image URL or remove this line)*
-
 ---
 
 ## 🚀 Project Overview
@@ -106,13 +102,6 @@ This script will train the model on your dataset and save the serialized model t
 
 ---
 
-## 🎨 Sample Usage
-
-![App Screenshot](https://raw.githubusercontent.com/yourusername/churn-streamlit-app/main/assets/app_screenshot.png)
-*Example of the input form and prediction output.*
-
----
-
 ## 🧪 Testing & Validation
 
 * The model achieves a test accuracy of approximately **75.76%** on unseen data.
@@ -163,7 +152,6 @@ GitHub: [github.com/nanier216](https://github.com/nanier216)
 
 *Made with ❤️ by Nanier*
 
-```
 
 
 
