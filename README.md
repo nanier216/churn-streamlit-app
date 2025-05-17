@@ -1,5 +1,5 @@
 
-```markdown
+
 # Telco Customer Churn Prediction
 
 ![Project Banner](https://raw.githubusercontent.com/yourusername/churn-streamlit-app/main/assets/banner.png)  
