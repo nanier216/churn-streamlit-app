@@ -1,6 +1,3 @@
-Absolutely! Here’s a detailed, well-structured, and visually clean README template tailored for your **Telco Customer Churn Prediction Streamlit app** project. You can customize it further as needed.
-
----
 
 ```markdown
 # Telco Customer Churn Prediction
@@ -168,6 +165,5 @@ GitHub: [github.com/nanier216](https://github.com/nanier216)
 
 ```
 
----
 
 
